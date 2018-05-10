@@ -102,3 +102,6 @@ ENV/
 
 # Program output
 /wynik
+/output
+/dane
+test.py
